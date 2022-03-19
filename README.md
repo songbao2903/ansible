@@ -13,7 +13,7 @@ graph LR
   A[Master Branch] -- checkout --> B(feature/NguyenVanA)
   B -- create dir NguyenVanA--> C(local repo)
   C -- code & commit --> B
-```
+ thêm nè ```
 
 ## How to contribute code
 Please kindly remember that **DO NOT** commit on master branch. We should following steps below:
